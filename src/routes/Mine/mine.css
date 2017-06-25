@@ -1,0 +1,46 @@
+body{background: #f5f5f5; color: #888888;}
+img{opacity: 0.8}
+.mychawo-top{padding-bottom: 60px;}
+.header{height:486px; background: skyblue; position: relative;}
+.msg-bg{background:rgba(0,0,0,0.1);position: absolute;bottom: 0;left:0; width:100%;font-size: 30px;height:132px;}
+.msg-bg span{display: inline-block;width:100%;height:50px; font-size: 30px; color: #000;text-align: center;line-height: 50px;margin-top:20px;}
+.msg-bg p{width:100%; text-align: center;}
+.msg-bg span img{zoom:0.6;}
+.user-photo{width:160px;height:160px;border-radius: 50%}
+.usernameimg{position: absolute;top:50%;left:50%; margin-left:-100px;margin-top:-100px;width:200px; height:200px; text-align: center;}
+.usernameimg p{text-align: center;height: 60px; line-height: 60px; font-size: 36px; color: #fff;}
+.main{margin-top:24px;}
+.main .mid-Item{background: #fff;margin-bottom: 24px;}
+.myOrder{height:90px;margin-left: 24px; border-bottom: 1px solid #bfbfbf; padding:30px 44px 30px 0;box-sizing: border-box;}
+.myOrder h3{float: left; line-height: 30px;height: 30px; font-size: 30px;}
+.myOrder h3 i{background-image: url(../../svg/title-bar/user.svg) ;
+    background-size: 100%; width:30px; height:30px; display: inline-block;}
+.myOrder h5{float: right;line-height: 30px;height: 30px; font-size: 28px; font-weight: normal;}
+.myOrder h5 i{width: 30px; height:30px; background-image:url(../../svg/title-bar/user.svg); display: inline-block; background-size: 100%;}
+.orderfunction{text-align: center;}
+.orderfunction img{width:44px; height:44px; margin-top: 30px; margin-bottom: 20px;}
+.orderfunction p{height:24px; font-size: 24px; margin-bottom: 30px; text-align: center;}
+
+.address{height:90px;margin-left: 24px; border-bottom: 1px solid #bfbfbf; padding:30px 44px 30px 0;box-sizing: border-box;}
+.address h3{float: left; line-height: 30px;height: 30px; font-size: 30px;}
+.address h3 i{background-image: url(../../svg/title-bar/user.svg) ;
+    background-size: 100%; width:30px; height:30px; display: inline-block;}
+.address h5{float: right;line-height: 30px;height: 30px; font-size: 28px; font-weight: normal;}
+.address h5 i{width: 30px; height:30px; background-image:url(../../svg/title-bar/user.svg); display: inline-block; background-size: 100%;}
+
+
+.usersetting{height:90px;margin-left: 24px; border-bottom: 1px solid #bfbfbf; padding:30px 44px 30px 0;box-sizing: border-box;}
+.usersetting h3{float: left; line-height: 30px;height: 30px; font-size: 30px;}
+.usersetting h3 i{background-image: url(../../svg/title-bar/user.svg) ;
+    background-size: 100%; width:30px; height:30px; display: inline-block;}
+.usersetting h5{float: right;line-height: 30px;height: 30px; font-size: 28px; font-weight: normal;}
+.usersetting h5 i{width: 30px; height:30px; background-image:url(../../svg/title-bar/user.svg); display: inline-block; background-size: 100%;}
+.Delivery{background: #fff;}
+
+
+.nctouch-footer{background: #fff;}
+.nctouch-footer a{display: inline-block;width:100%;padding:15px 0; text-align: center; height:30px; line-height: 30px; font-size: 30px;}
+.nctouchFoot{height:54px;padding:20px 0; border-top:1px solid #bfbfbf;}
+.displayequipment{text-align: center;}
+.displayequipment span{width:54px; height:54px; border-radius: 50%; border:1px solid #000; display: inline-block;}
+.displayequipment span img{width:100%; height:100%; opacity: 0.7;}

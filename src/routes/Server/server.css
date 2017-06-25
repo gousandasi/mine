@@ -1,0 +1,17 @@
+
+.contact{
+    padding:20px 40px;
+}
+.contact h1{
+    padding-bottom:30px;
+    font-size:70px;
+    border-bottom:1px solid #ddd;
+}
+.serve{
+    margin-top:40px;
+}
+.serve img{
+    width: 40%;
+    height:40%;
+}
+

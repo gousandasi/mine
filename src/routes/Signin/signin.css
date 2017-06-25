@@ -1,0 +1,144 @@
+
+.top-box{
+    position: relative;
+}
+.back{
+    position: absolute;
+    top: 20px;
+    left:50px;
+}
+.member-top{
+    padding-top: 90px;
+    background: #7ff5bc;
+    height:245px;
+    width:100%;
+    position:relative;
+}
+.my-pointnum{
+    position:absolute;
+    top:120px;
+    left: 30px;
+    background: #7ff5bc;
+    height:120px;
+    width:160px;
+    text-align: center;
+    color:#fff;
+}
+.pointnum{
+    display: block;
+    margin-top:15px;
+    font-size: 32px;
+    font-weight: bold;
+    color:#f8ee47;
+}
+.description_link{
+    position:absolute;
+    top:120px;
+    right: 30px;
+    background: #7ff5bc;
+    height:120px;
+    width:160px;
+    text-align: center;
+    color:#fff;
+}
+.discover{
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0,0,0,0.75);
+}
+.description_info{
+    position: absolute;
+    top:330px;
+    left:14%;
+    width:540px;
+    height:640px;
+    background: #fff;
+    text-align: center;
+    border-radius: 10px;
+}
+.s-dialog-content{
+    padding:30px 25px;
+    font-size: 28px;
+    border-bottom: 1px solid #2e2f2e;
+}
+.s-dialog-content li{
+    display: inline-block;
+    text-align: left;
+}
+.s-dialog-content h4{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.s-dialog-btn-wapper{
+    text-align: center;
+    line-height: 80px;
+}
+.sign-box{
+    border-radius: 50%;
+    position: absolute;
+    top:50%;
+    left:50%;
+    margin-left: -75px;
+    margin-top:-45px;
+    width:150px;
+    height:150px;
+    background: url(http://www.chawo.com/wap/images/sign_btn.png);
+    text-align: center;
+    color:#e77878;
+}
+.sign-btn{
+    padding:0 20px;
+}
+.sign-box h2{
+    font-size:30px ;
+    line-height: 60px;
+    margin-top:25px;
+}
+.sign-box h6{
+    font-size:26px ;
+    line-height: 45px;
+    border-top:1px solid #929292;
+}
+.signin-list{
+    display: block;
+    background: #fff;
+}
+.signin-list h3{
+    font-weight: normal;
+    font-size: 30px;
+    padding:10px 20px;
+    overflow: hidden;
+    line-height: 60px;
+    border-bottom:1px solid #c7c2c2;
+}
+.signin-list h3 a{
+    float: right;
+}
+.loglist{
+    padding:0 0 0 30px;
+    overflow: hidden;
+    border-bottom:1px solid #c7c2c2;
+}
+.signin-item{
+    display: block;
+    overflow: hidden;
+    padding: 20px 0;
+    line-height: 50px;
+    border-top:1px solid #c7c2c2;
+}
+.loglist :nth-child(1){
+    border-top:none;
+}
+.signin-item em{
+    font-size: 45px;
+    padding:0 20px;
+    color:#ff4948;
+}
+.signin-item span{
+    font-size: 25px;
+    margin-left: 20px;
+}
